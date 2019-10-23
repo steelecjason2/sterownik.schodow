@@ -8,7 +8,7 @@ parts not listed in schematics:
 
 SANPU 12VDC Waterproof LED Power Supply 12V DC 120W 10A IP67
 
-HM-10 Transparent Serial Port Bluetooth 4.0 Module With Logic Level Conversion
+Bluetooth HC-05
 
 LED Strip 12V
 
